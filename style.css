@@ -1,0 +1,32 @@
+/*fondo*/
+body{
+    background-attachment: fixed;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210323/pngtree-simple-cv-asymmetry-white-abstract-image_591328.jpg);
+    background-repeat: repeat-round;
+    background-size:cover;
+    font-family: 'Kalam', cursive;
+    text-align: center;
+}
+/*nav*/  
+ul{
+    list-style: none;  /*este codigo elimina todos los puntos de la lista*/
+}
+ul.inline li{
+    display: inline; /*este codigo es para pasar los bloques de li a lineas*/
+}
+/*Imagen*/
+.imgvenom {
+    display: block;
+    width: 250px;
+    margin: auto;
+}
+/*Títulos*/
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+span{
+    color: blueviolet;
+}
+.lineado{
+    text-decoration: underline;
+}
